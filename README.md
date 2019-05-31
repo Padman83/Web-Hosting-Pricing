@@ -1,2 +1,3 @@
 # Web-Hosting-Pricing Page
-Written in Bootstrap Framework.
+
+Written in html, css and Materialize CSS Framework.
